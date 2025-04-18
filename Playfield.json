@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "DrawableInfo": {
+    "osu": [
+      {
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2025.316.0.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 18,
+        "Origin": 18,
+        "UsesFixedAnchor": true,
+        "Settings": {
+          "sprite_name": "lazer/shadow@2x.png"
+        },
+        "Children": []
+      }
+    ],
+    "mania": [],
+    "taiko": [],
+    "fruits": [],
+    "Sentakki": [],
+    "Swing": [],
+    "Touhosu": [],
+    "bosu!": [],
+    "diva": [],
+    "hishigata": [],
+    "rush": [],
+    "soyokaze": [],
+    "tau": []
+  }
+}
