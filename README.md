@@ -37,7 +37,7 @@
 - [x] 长短光标拖尾
 - [x] hitcircle 外圈[FL]
 - [x] hitcircle 数字/点 
-- [ ] taiko drum2x
+- [x] taiko drum2x
 - [x] ctb 带点/不带点/FL
 - [ ] mania 圆键/砖键/菱形键
 - [ ] 自定义配置脚本
